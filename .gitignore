@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+Content/StarterContent/*
+Content/InfinityBladeEffects/*
+Content/InfinityBladeGrassLands/*
